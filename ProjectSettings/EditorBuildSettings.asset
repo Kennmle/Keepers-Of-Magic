@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/KoM/Scenes/TitleScreen.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Background.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Battle.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/BattleMap1.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Credits.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Entering the Manor.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Example Scene.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Generic 18 Map.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Hill Map.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Large Test Map.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Level 1.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Lucius Fight.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Map 1.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Meeting Enguerrand.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Meeting Leo1.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Meeting Llewellyn.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Meeting Lucretia.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Meeting Rusine.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Mutliplayer Map 2.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Narration Part2.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Narration.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Prologue.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/Small Room.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/The day after.unity
+  - enabled: 1
+    path: Assets/KoM/Scenes/XML Test.unity

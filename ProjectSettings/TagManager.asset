@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ability
+  - Map
+  - UI
+  - Ability Instructions
+  - Ability Selector
+  - Possible Move Highlighters
+  - Character Display
+  - Health Indicator
+  - Morale Bar 1
+  - Morale Bar 2
+  - Morale Text 1
+  - Morale Text 2
+  - Health Label
+  - Music Cube
+  - Victory Cube
+  - Name Label
+  - Morale Bar 3
+  - Morale Text 3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
